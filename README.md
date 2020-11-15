@@ -30,7 +30,7 @@ API 接口文档：已部署至本项目根节点
 
 ```
 # 克隆项目
-git clone https://github.com/1768941378/vueShop_Server.git
+git clone https://github.com/pezihan/vueShop_Server.git
 
 # 进入项目目录
 cd vueShop_Server

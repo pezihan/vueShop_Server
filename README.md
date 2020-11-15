@@ -4,7 +4,7 @@
 
 Vue_shop 配套的服务器 API 
 
-**前端项目地址**：https://github.com/1768941378/vue_shop
+**前端项目地址**：https://github.com/pezihan/vue_shop
 
 API 接口文档：已部署至本项目根节点
 
